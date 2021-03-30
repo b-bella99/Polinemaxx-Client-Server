@@ -1,4 +1,4 @@
-# Polinemaxx-Client-Server
+# <div align = "center"> POLINEMAXX </div>
 
 1. Extract file to C:/xampp/htdocs/
 2. Turn On xampp, checklist Apache and MySql
